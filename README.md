@@ -1,2 +1,2 @@
 # MADLAB_sem4_Calculator
-In this project, we have built a basic calculator using android studio. 
+We have built a calculator in Android Studio. The code is written in java. This calculator does all basic arithematic functions.
